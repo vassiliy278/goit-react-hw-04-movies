@@ -1,0 +1,7 @@
+.menu_item {
+    text-decoration: none;
+    color: antiquewhite;
+}
+.menu_item_active {
+    color: coral
+}
